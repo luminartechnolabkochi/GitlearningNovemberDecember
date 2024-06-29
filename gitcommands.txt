@@ -13,3 +13,15 @@ Basic Git Commands
 >git remote add remote_name remote__repository_path[adding remote repo]
 
 >git push remote_name branch[pushing files from local repo to remote repo]
+
+Global Commands
+
+>git config --list [list users detail]
+
+>git config --global user.name "user name" [adding user name]
+
+>git config --global user.email "emailid" [adding user email]
+
+
+
+
