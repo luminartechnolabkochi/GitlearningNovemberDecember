@@ -8,3 +8,8 @@ Basic Git Commands
 
 >git commit -m "commit message"[adding staged files to local repository]
 
+>git remote -v [list all remotes]
+
+>git remote add remote_name remote__repository_path[adding remote repo]
+
+>git push remote_name branch[pushing files from local repo to remote repo]
