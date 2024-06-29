@@ -14,6 +14,8 @@ Basic Git Commands
 
 >git push remote_name branch[pushing files from local repo to remote repo]
 
+>git branch [list all branches]
+
 Global Commands
 
 >git config --list [list users detail]
